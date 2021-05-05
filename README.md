@@ -1,5 +1,5 @@
 # Youtube_promotion_on_twitter
----
+
 <p align="left">
 <a href="https://github.com/DivyaKumarBaid/Youtube_promotion_on_twitter/blob/main/LICENSE" alt="Lisence"><img src="https://img.shields.io/github/license/DivyaKumarBaid/Youtube_promotion_on_twitter"></a> <a href="https://github.com/DivyaKumarBaid/Youtube_promotion_on_twitter/issues" alt="Issues"><img src="https://img.shields.io/github/issues/DivyaKumarBaid/Youtube_promotion_on_twitter"></a> <a href="https://twitter.com/DivyakumarBaid1?s=09" alt="Twiter-Follow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FDivyaKumarBaid%2FYoutube_promotion_on_twitter"></a>
 </p>
@@ -7,7 +7,7 @@
 This is a simple automation that tweets the title and the link of a channels latest video when uploaded along with tags.
 
 ## Installation
---
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) \
 To install google-api-python-client
 
@@ -20,12 +20,11 @@ pip install tweepy
 ```
 
 ## Pre-Text:
---
+
 
 This is a simple autmation that helps to understand how API works and how to use them on a real life example.
 
 ## How to Install
---
 
 1. Create a ```python``` virtual environment.
 2. Clone the repo ```git clone https://github.com/DivyaKumarBaid/Youtube_promotion_on_twitter.git``` or download the repository.
@@ -40,11 +39,11 @@ This is a simple autmation that helps to understand how API works and how to use
 8. Run it.
 
 ##Note 
---
+
 To minimise the calling to youtube API as it has low quota, I have set the interval between any call of youtube api to be 1hr. However you can change it as you like.
 
 ## Contributing
---
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
