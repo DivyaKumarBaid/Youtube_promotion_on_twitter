@@ -42,6 +42,12 @@ This is a simple autmation that helps to understand how API works and how to use
 
 To minimise the calling to youtube API as it has low quota, I have set the interval between any call of youtube api to be 1hr. However you can change it as you like.
 
+## Screenshot
+
+![screenshot](ss.jpg)
+
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
