@@ -38,7 +38,7 @@ This is a simple autmation that helps to understand how API works and how to use
 7. You have to get the youtube channel Id you want to promote (you will get it from the https link e.g.https://www.youtube.com/channel/CHANNEL_ID )
 8. Run it.
 
-##Note 
+## Note 
 
 To minimise the calling to youtube API as it has low quota, I have set the interval between any call of youtube api to be 1hr. However you can change it as you like.
 
