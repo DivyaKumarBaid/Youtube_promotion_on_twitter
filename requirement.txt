@@ -1,0 +1,10 @@
+You would need to have the below stated dependencies installed and properly running on your environment workspace....
+
+1. google-api-python-client
+
+2. tweepy
+
+I have written how to install it in my readme file on github so just go through the installation part.
+
+
+Happy coding!
