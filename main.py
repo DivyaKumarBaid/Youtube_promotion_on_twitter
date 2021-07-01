@@ -44,7 +44,7 @@ def get_channel_videos(channel_id):
 
   latest_video=[]
   
-  res = youtube.playlistItems().list(playlistId=playlist_id,part='snippet',maxResults=1).execute()
+  res = youtube.playlistItems().list(playlistId=playlist_id[0],part='snippet',maxResults=1).execute()
 
   latest_video.append(res)
 
